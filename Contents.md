@@ -1,6 +1,3 @@
----
-layout: default
----
 # Welcome to the Contents Page
 
 ### This is just a test page to get things started.
